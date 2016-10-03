@@ -1,5 +1,5 @@
 function MarvelService() {
-    var key = '?apikey=e44062bbc76b37176b08325d5265a0f3';
+    var key = '?apikey=42baae8eb35e7a403cb0b86134f1b16f';
     var baseUrl = 'https://gateway.marvel.com/v1/public/'
 
     var dataStore = this;
